@@ -1,3 +1,4 @@
 {
-    "onCreateCommand": "./codespaces_create_and_start_containers.sh"
+    "onCreateCommand": "./codespaces_create_and_start_containers.sh",
+    "forwardPorts": [22]
 }
